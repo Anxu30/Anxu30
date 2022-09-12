@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anxu30
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning c/c++
-- 🎯 wanna b a web developer
+- 👀 Basic knowledge of C, C++ & OOP's
+- 🌱 I’m currently learning html/css
+- 🎯 wanna b a frontend dev
 - 📫 8392839298;6398900930 
 - 📧 anuj.chaudhary.2430@gmail.com;anuj.chaudhary.2430@protonmail.ch
 
